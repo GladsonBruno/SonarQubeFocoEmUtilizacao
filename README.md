@@ -2,8 +2,6 @@
 
 Neste workshop abordaremos a ferramenta SonarQube mais focada em sua utilização geral e na verificação de métricas.
 
-Este Workshop contempla apenas informações sobre o SonarQube e como o utilizar de maneira mais gerencial.
-
 O workshop completo contendo informações mais técnicas como instalação, configuração, informações de código limpo e etc podem ser acessado neste [link](https://github.com/GladsonBruno/SonarQube).
 
 
